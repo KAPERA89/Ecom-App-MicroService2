@@ -5,7 +5,7 @@
 ### Billing Service : 
 <img width="1552" alt="Capture d’écran 2023-12-16 à 14 03 23" src="https://github.com/KAPERA89/Ecom-App-MicroService2/assets/93727795/eb4d9d25-4770-460e-a94e-274df005f52a">
 
-### Accessing Customer Service from Gitway: 
+### Accessing Customer Service from Gateway: 
 <img width="1552" alt="Capture d’écran 2023-12-16 à 14 02 40" src="https://github.com/KAPERA89/Ecom-App-MicroService2/assets/93727795/305cc585-b561-4fad-aca2-21dbc7d8c256">
 
 ### Vault and Consul 
